@@ -20,4 +20,5 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=FDjU94kA
 
 - [GRALAF](https://github.com/INSPIRE-5Gplus/gralaf): causal Bayesian networks for locating faults in microservices
 - [drone-network-onos-and-mininet](https://github.com/onurklngc/drone-network-onos-and-mininet): UAV-assisted edge network testbed from my M.S. thesis
+- Multi-medium support in [wmediumd](https://github.com/ramonfontes/wmediumd/pull/9) and [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi/pull/419), merged upstream: traffic in one emulated Wi-Fi network no longer cuts throughput in another. Built for the same testbed.
 - [device-location-service](https://github.com/onurklngc/device-location-service): GPS data pipeline from IoT devices over TCP and RabbitMQ to MySQL, with a GraphQL API
