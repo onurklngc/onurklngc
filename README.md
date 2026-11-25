@@ -1,6 +1,6 @@
 ### Onur Kalinagac
 
-Machine learning and backend engineer at Odine. I build ML systems for telecom networks: anomaly detection on call records, conflict mitigation between O-RAN xApps, and root-cause analysis.
+Machine learning engineer at Odine. I build ML systems for telecom networks, from research to production: anomaly detection on call detail records, conflict mitigation between O-RAN xApps, and root-cause analysis.
 
 Before Odine I co-founded Epicurus Labs. We built two apps: Epicurus, which matched people for anonymous group chats, and GetOpinion, where users polled one another. We also ran a Twitter campaign that used the Epicurus matching model, and it went viral.
 
